@@ -3,10 +3,11 @@ Copyright belongs to chentingpc(http://chentingpc.me)
 
 This is a homework project from Software Engineering class, the rashly finished version of the work using just three nights were present here. If you, in any condition, use these codes in any way, it's ok for me, but you should be more carefull since I didn't have much time to keep the code bug free when I created few days ago.
 
-To run the code, you should build a Apache server first, and add the whole file to WWW direcotry, and run ./admin/setup.php to setup the database, some configuration of the database is located in ./include/conf.inc.php, so you might need to edit it first. And there are four roles in these system as difined by my classmates in "Demand Analysis", the user name are as follow and the passowrd are the same "bupt":
+To run the code, you should build a Apache server first, and add the whole file to WWW direcotry, and run ./admin/setup.php to setup the database, some configuration of the database is located in ./include/conf.inc.php, so you might need to edit it first. And there are four roles in the system as difined by my classmates in "Demand Analysis" step, the user ids are as follow and the passowrd are the same as "bupt"(without the double quote):
 
 manager: chetningpc-ma
 warehouser: chentingpc-wh
 buyer: chentingpc-by
 taker: chentingpc-tk
  
+more details about the roles and functions of the system, please refer to  ./软工上游班级工作/TM5_12_A_用户需求分析报告.docx
