@@ -1,4 +1,12 @@
 ------
-Copyright belongs to chentingp(http://chentingpc.me) 
+Copyright belongs to chentingpc(http://chentingpc.me) 
 
-This is a homework from Software Engineering class, the rashly finish version of the work using just three nights were present here. If you, in any condition, use these codes, it's ok for me, but you should be more carefull since I don't have too much time to keep the code bug free.
+This is a homework project from Software Engineering class, the rashly finished version of the work using just three nights were present here. If you, in any condition, use these codes in any way, it's ok for me, but you should be more carefull since I didn't have much time to keep the code bug free when I created few days ago.
+
+To run the code, you should build a Apache server first, and add the whole file to WWW direcotry, and run ./admin/setup.php to setup, some configuration of the database is located in ./include/conf.inc.php, you might need to edit it too. And there are four roles in these system as difined by my classmates in "Demand Analysis", the user name are as follow and the passowrd are the same "bupt":
+
+manager: chetningpc-ma
+warehouser: chentingpc-wh
+buyer: chentingpc-by
+taker: chentingpc-tk
+ 
