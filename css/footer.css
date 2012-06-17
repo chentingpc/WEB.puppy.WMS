@@ -1,0 +1,33 @@
+.footer{ 
+margin:0 auto;
+border-top:1px solid gray;
+padding: 20px 10px 0px 20px;
+padding: 20px 10px 0px 20px;
+text-align:center; 
+background:#333;
+color:#fff; 
+height:40px;
+font-size:18px;
+}
+
+.footer2{
+clear:both;
+margin-top:100px;
+border-top:1px solid gray;
+padding: 10px 10px 10px 20px;
+width:300px;
+color:#555;
+}
+
+
+.footer3{ 
+margin:0 auto;
+border-top:1px dashed gray;
+padding: 20px 10px 0px 20px;
+padding: 20px 10px 0px 20px;
+text-align:center;  
+width:100%;
+color:#555; 
+height:40px;
+font-size:18px;
+}
